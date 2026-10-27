@@ -1,0 +1,23 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding:: 0px;
+    margin: 0px;
+}
+
+body{
+background-color: blue;
+padding: 40px;
+color: aqua;
+
+div{
+    background-color: black;
+    color: rgb(196, 21, 21);
+    padding: 13px;
+    margin: 20px;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    box-shadow: 10px 10px 10px 
+
+
+
+}
